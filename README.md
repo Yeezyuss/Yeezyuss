@@ -6,7 +6,8 @@
 - 🌱 Learning & leveling up **Machine learning, Neural Nets & Godot**
 
 - 👾 I’m looking to Collaborate on Any Aı Dev, Design project, game dev.**Even LLm"s architect Crafting**
- • 🤝 **Seeking:**
+  
+  • 🤝 **Seeking:**
 - 🤺 I’m looking for help with **finding a community, of makers, tinkerers, thinkers**
 - And also like minded thinkers and problem solvers, **And also how to break into Aı industry and Product  Designing**
 
